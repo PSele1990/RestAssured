@@ -1,6 +1,6 @@
 Weatherbit
 
-Clone WeatherBit from git repo - git clone 
+Clone WeatherBit from git repo - git clone https://github.com/PSele1990/RestAssured
 Run mvn clean install to builds the project described by Maven POM file and installs the resulting artifact (JAR) into local Maven repository
 Test Data Path - src/test/resources/responseData
 Feature file Path - src/test/resources/features/CurrentWeather.feature
